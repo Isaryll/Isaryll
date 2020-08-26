@@ -1,6 +1,12 @@
-### Hi there
+### Isabelle Corrêa
 
-Computer Vision and Deep Learning Developer.
+Computer Vision and Deep Learning Developer at TagusWorld Analytics.
+
+## Academic Degree
+Master’s Degree in Information Systems at Polytechnic Institute of Braganca
+Bachelor's Degree in Computer Science at Federal Technological University of Parana
+Technical Course in Business Management at Paula Souza State Technological Education Center
+
 
 <!-- Actual text -->
 
