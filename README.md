@@ -12,7 +12,7 @@ Computer Vision and Deep Learning Developer at TagusWorld Analytics.
 
 <!-- Actual text -->
 
-You can find me on [LinkedIn][2], [Instagram][3] or on [Facebook][1].
+You can find me on [LinkedIn][2], [Instagram][3], or on [Facebook][1].
 
 <!-- Links to your social media accounts -->
 
