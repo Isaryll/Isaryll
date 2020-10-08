@@ -1,6 +1,6 @@
 ### Isabelle Corrêa
 
-Computer Vision and Deep Learning Developer at TagusWorld Analytics.
+Machine Learning Engineer at TagusWorld Analytics.
 
 ## Academic Degree
 
